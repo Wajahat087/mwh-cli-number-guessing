@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 
-// 1) Computer will generate a random number - Done.
+// 1) Computer will generate a random number 
 
 // 2) User input for guessing number
 
